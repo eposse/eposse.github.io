@@ -21,9 +21,7 @@
 title: Ernesto Posse
 email: eposse@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello. I'm Ernesto Posse, a software developer living in Ottawa, Canada. This website is intended mostly to share notes I've written, mainly about Computer Science, Logic and Mathematics, as well as providing links to my open source projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eposse.github.ios" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eposse
