@@ -21,9 +21,10 @@
 title: Ernesto Posse
 email: eposse@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello. I'm Ernesto Posse, a software developer living in Ottawa, Canada. This website is intended mostly to share notes I've written, mainly about Computer Science, Logic and Mathematics, as well as providing links to my open source projects.
+  Notes I've written, mainly about Computer Science, Logic and Mathematics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eposse.github.ios" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eposse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: ernestoposse
 github_username:  eposse
 
 # Build settings
